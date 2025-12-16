@@ -1,2 +1,2 @@
-# MNTool-Update
-更新
+# MNTool
+发布V1.2
